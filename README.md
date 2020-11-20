@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hey 👋, I'm r0eXpeR.
 
-<!--
-**r0eXpeR/r0eXpeR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📊 **My recent programming status:**
+<!--START_SECTION:waka-->
+```text
+Shell        9 hrs 31 mins   ███████████▓░░░░░░░░░░░░░   46.16 % 
+HTML         5 hrs 45 mins   ███████░░░░░░░░░░░░░░░░░░   27.91 % 
+CSS          2 hrs 33 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.37 % 
+JSON         1 hr 39 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 % 
+JavaScript   39 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
+```
+<!--END_SECTION:waka-->
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+Talking about Personal Stuffs:
+
+- 🔭 I’m currently working on Web Security.
+- 🌱 I’m currently learning Python.
+- 📫 How to reach me: bh@blackhat.net
 - ⚡ Fun fact: ...
--->
