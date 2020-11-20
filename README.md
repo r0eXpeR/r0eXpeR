@@ -1,7 +1,7 @@
-### Hey 👋, I'm Blackhold.
+### Hey 👋, I'm r0eXpeR.
 
-📊 **My recent programming status:**
-<!--START_SECTION:waka-->
+📊 **My skill status:**
+
 ```text
 Shell        9 hrs 31 mins   ███████████▓░░░░░░░░░░░░░   46.16 % 
 HTML         5 hrs 45 mins   ███████░░░░░░░░░░░░░░░░░░   27.91 % 
@@ -9,12 +9,11 @@ CSS          2 hrs 33 mins   ███░░░░░░░░░░░░░░
 JSON         1 hr 39 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 % 
 JavaScript   39 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
 ```
-<!--END_SECTION:waka-->
 
 
-Talking about Personal Stuffs:
+My Personal Information:
 
 - 🔭 I’m currently working on Web Security.
 - 🌱 I’m currently learning Python.
-- 📫 How to reach me: bh@blackhat.net
+- 📫 How to reach me: x@x.x
 - ⚡ Fun fact: ...
