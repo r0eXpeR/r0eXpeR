@@ -1,4 +1,4 @@
-### Hey 👋, I'm r0eXpeR.
+### Hey 👋, I'm Unomi.
 
 📊 **My skill status:**
 
@@ -16,4 +16,4 @@ My Personal Information:
 - 🔭 I’m currently working on Web Security.
 - 🌱 I’m currently learning Python.
 - 📫 How to reach me: x@x.x
-- ⚡ Fun fact: ...
+- ⚡ My Team: Edge Security Team
