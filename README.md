@@ -7,4 +7,4 @@ My Personal Information:
 - 📫 How to reach me: bh@blackhat.net
 - ⚡ My Team: Edge Security Team
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=r0eXpeR)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&theme=tokyonight)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=r0eXpeR&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
