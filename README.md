@@ -7,4 +7,3 @@ My Personal Information:
 - 🔭 I’m currently working on Web Security.
 - 🌱 I’m currently learning Python.
 - 📫 How to reach me: root@r1ng.org
-- ⚡ My Team: Edge Security Team
